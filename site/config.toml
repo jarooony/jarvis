@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Nix Theme"
+title = "jar000ny"
 theme = "hugo-theme-nix"
 
 [params]
@@ -9,7 +9,7 @@ theme = "hugo-theme-nix"
   LinkedInID = "your_linkedin"
   GoogleplusID = "your_googleplus"
   FacebookID = "your_facebook"
-  Name = "Jar[]@{}ny"
+  Name = "Jar000ny"
   HeaderUsername = "jar000ny"
   HeaderHostname = "jarvis"
   Email = "your_email"
@@ -22,3 +22,7 @@ theme = "hugo-theme-nix"
     name = "posts"
     weight = 0
     url = "/post"
+  [[menu.header]]
+    name = "links"
+    weight = 1
+    url = "/links"
