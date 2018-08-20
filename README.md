@@ -1,6 +1,8 @@
 # Victor Hugo CMS Template
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://github.com/bdougie/nix-theme)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://github.com/bdougie/nix-theme) 
+[![works badge](https://cdn.rawgit.com/nikku/works-on-my-machine/v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine)
+
 
 ![nix theme image](https://s3-us-west-1.amazonaws.com/publis-brian-images/nix.png)
 
